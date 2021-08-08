@@ -1,5 +1,10 @@
 ## TODO APP [ELECTRON]
-![image](https://user-images.githubusercontent.com/87514488/128635820-d375d487-cfad-4975-8eab-e4bfb5ce6ff9.png)
-<h3> Install [ElectronJS](https://www.npmjs.com/package/electron)</h3>
-<h3> Run the main.js with i> start  </h3> 
-<i> start 
+
+<h4> • Install <a href="https://www.npmjs.com/package/electron">Electron </a> </h4>
+<h4>• Run the main.js with npm start command</h4>
+<h4>• A console and then electron window will appear </h4>
+<h4>• The css part is actually trash  </h4>
+<h4>• Excuse the errors </h4>
+
+
+![image](https://user-images.githubusercontent.com/87514488/128636190-e93f0d38-170e-4177-bee7-2c6ddaaf7ad0.png)
