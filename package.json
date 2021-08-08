@@ -1,0 +1,24 @@
+{
+  "name": "electron-todo-app",
+  "version": "1.0.0",
+  "description": "TODO APP",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "httpanand",
+  "devDependencies": {
+    "electron": "^12.0.5"
+  },
+  "dependencies": {
+    "custom-electron-titlebar": "^3.2.7"
+  }
+}
