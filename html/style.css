@@ -1,10 +1,10 @@
 @font-face {
-    font-family: JuneBug;
+    font-family: Monalisa;
     src: url('Electron-todo-app/Font/MonoLisa-Bold.ttf');
 }
 
 html {
-    font-family: JuneBug
+    font-family: Monalisa;
 }
 
 font {
